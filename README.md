@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+<img src="https://media.giphy.com/media/1oalWgRJk7Rao/giphy.gif" />
 You can use the [editor on GitHub](https://github.com/LifeisChallenge/lic.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 It's my first page that describe my life and hobby and dream.
 Welcome to my life.
